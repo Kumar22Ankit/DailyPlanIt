@@ -14,5 +14,8 @@ Features
 
 5. Secure and Scalable: Powered by AWS Bedrock, DailyPlanIt offers a robust, secure, and scalable foundation, ensuring your data is safe and the app performs flawlessly, even as we add more features.
 
+
+ the link : https://partyrock.aws/u/Ankit-kumar/OEWtHUep_/DailyPlanIt
  
+  
   Thank you for choosing DailyPlanIt to organize your day. Here's to being more productive, one task at a time! 
